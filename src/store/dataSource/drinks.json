@@ -1,0 +1,195 @@
+{
+    "drinksList": [
+        {
+            "name": "Yellowhammer",
+            "composition" : [
+                {
+                    "ingredient": "Vodka",
+                    "volume": 60,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Rum",
+                    "volume": 60,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Amaretto",
+                    "volume": 60,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Pineapple juice",
+                    "volume": 120,
+                    "unit": "ml"
+                }
+            ],
+            "lenght": 4,
+            "photo": "drink images/yellowhammer.png",
+            "recipe": ["drink recipe step 1", "drink recipe step 1", "drink recipe step 1"],
+            "link": "https://www.youtube.com/watch?v=RXKyDdZhey0"
+        },
+        {
+            "name": "Wilno Avenue",
+            "composition" : [
+                {
+                    "ingredient": "Vodka",
+                    "volume": 40,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Passoa",
+                    "volume": 20,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Passion fruit syrup",
+                    "volume": 10,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Lemon juice",
+                    "volume": 20,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Cranberries juice",
+                    "volume": 80,
+                    "unit": "ml"
+                }
+            ],
+            "lenght": 5,
+            "photo": "drink images/yellowhammer.png",
+            "recipe": ["drink recipe step 1", "drink recipe step 1", "drink recipe step 1"],
+            "link": "https://www.youtube.com/watch?v=RXKyDdZhey0"
+        },
+
+        {
+            "name": "Tokyo iced tea",
+            "composition" : [
+                {
+                    "ingredient": "Vodka",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Rum",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Gin",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Tequila",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Triple Sec",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Melon Liqueur",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Sweet & Sour",
+                    "volume": 30,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Splash Lemon-Lime Soda",
+                    "volume": 10,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Cheery",
+                    "volume": 1,
+                    "unit": "piece"
+                }
+            ],
+            "lenght": 9,
+            "photo": "drink images/tokyo_iced_tea.png",
+            "recipe": ["drink recipe step 1", "drink recipe step 1", "drink recipe step 1"],
+            "link": "https://www.youtube.com/watch?v=RXKyDdZhey0"
+        },
+        {
+            "name": "Sex on the Beach",
+            "composition" : [
+                {
+                    "ingredient": "Vodka",
+                    "volume": 40,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Archers",
+                    "volume": 20,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Coconout syrup (Malibu)",
+                    "volume": 20,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Orange juice",
+                    "volume": 50,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Cranberries juice",
+                    "volume": 1,
+                    "unit": "ml"
+                }
+            ],
+            "lenght": 5,
+            "photo": "drink images/sex_on_the_beach.png",
+            "recipe": ["drink recipe step 1", "drink recipe step 1", "drink recipe step 1"],
+            "link": "https://www.youtube.com/watch?v=RXKyDdZhey0"
+        },
+        {
+            "name": "Salty Bird",
+            "composition" : [
+                {
+                    "ingredient": "White rum",
+                    "volume": 45,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Campari",
+                    "volume": 22.5,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Pineapple juice",
+                    "volume": 45,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Lime juice",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Simple Syrup",
+                    "volume": 15,
+                    "unit": "ml"
+                },
+                {
+                    "ingredient": "Salt",
+                    "volume": 1,
+                    "unit": "g"
+                }
+            ],
+            "lenght": 6,
+            "photo": "drink images/Salty_bird.png",
+            "recipe": ["drink recipe step 1", "drink recipe step 1", "drink recipe step 1"],
+            "link": "https://www.youtube.com/watch?v=RXKyDdZhey0"
+        }
+    ]
+}
