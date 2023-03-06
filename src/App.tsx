@@ -1,10 +1,9 @@
-/* eslint-disable react/react-in-jsx-scope */
-import { Dashboard } from "./cointainers/HomePage/Dashboard";
+import ConfirmAge from "./cointainers/HomePage/ConfirmationAge";
 
 function App() {
   return (
     <div>
-      <Dashboard />
+      <ConfirmAge />
     </div>
   );
 }

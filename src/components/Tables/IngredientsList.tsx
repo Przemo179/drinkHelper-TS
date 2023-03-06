@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { useState } from "react";
 import {
   removeIngredient,
@@ -8,7 +7,7 @@ import { connect } from "react-redux";
 import { Table } from "react-bootstrap";
 import { Container } from "react-bootstrap";
 import "../../styles/IngredientList.css";
-import { changeValueProps, Ingredient } from "../../store/types/types";
+import { ChangeValueProps, Ingredient } from "../../store/types/types";
 import { IngredientRow } from "../../cointainers/IngredientsLists/IngredientsRow";
 import { ApplicationState } from "../../store/redux/rootReducers";
 
@@ -34,7 +33,7 @@ const ProductsList = ({
   updateVolume,
 }: Props) => {
   const [changeValue, setChangeValue] =
-    useState<changeValueProps>(initChangeValue);
+    useState<ChangeValueProps>(initChangeValue);
 
   const removeFromStore = (id: number) => {
     removeIngredient({

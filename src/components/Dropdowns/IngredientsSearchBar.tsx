@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { useState } from "react";
 import { connect } from "react-redux";
 import { addIngredient } from "../../store/redux/actions/actions";
@@ -25,20 +24,6 @@ let nextArrayId = 0;
 const IngredientsSearchBar = ({ ingredients, addIngredient }: Props) => {
   const [selectedItem] = useState([]);
   const [dataIngredient] = useState(data);
-  // const addSingleIngredient = () => (selectedValue: SelectedItem) => {
-  //   if (
-  //     ingredients.every((ingredient) => {
-  //       return ingredient.label !== selectedValue.label;
-  //     })
-  //   ) {
-  //     addIngredient({
-  //       id: nextArrayId++,
-  //       label: selectedValue.label,
-  //       unit: selectedValue.unit,
-  //       volume: 0,
-  //     });
-  //   }
-  // };
 
   return (
     <Container className="xd">
